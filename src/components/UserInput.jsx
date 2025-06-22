@@ -28,7 +28,7 @@ export default function UserInput({ userInput, onChange }) {
           />
         </p>
       </div>
-      <div>
+      <div className="input-group">
         <p>
           <label>Expected return</label>
           <input
